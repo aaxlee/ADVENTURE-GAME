@@ -1,1 +1,3 @@
-# adventure game project for school
+# ADVENTURE-GAME
+# project for school
+# contributors: me, @burree
